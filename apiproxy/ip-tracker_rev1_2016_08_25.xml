@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="ip-tracker_rev1_2016_08_25">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1472150640618</CreatedAt>
+    <CreatedBy>ans.mayank@gmail.com</CreatedBy>
+    <Description>ip tracker</Description>
+    <DisplayName>ip-tracker</DisplayName>
+    <LastModifiedAt>1472150754629</LastModifiedAt>
+    <LastModifiedBy>ans.mayank@gmail.com</LastModifiedBy>
+    <Policies>
+        <Policy>Verify-API-Key</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+    <validate>false</validate>
+</APIProxy>
